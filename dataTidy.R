@@ -3,7 +3,7 @@
 #This script includes the following programs 
 #merge, getMeanStd, setNames, createTable, tidyData
 #all the functions are shortly distribed below before the function and discribed
-#in depth in the documentation tidyData.md
+#in depth in the documentation README.md
 
 
 #the function merge takes all the values from the test and training set and,
